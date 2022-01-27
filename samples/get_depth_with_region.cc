@@ -275,3 +275,4 @@ int main(int argc, char *argv[]) {
   api->Stop(Source::VIDEO_STREAMING);
   return 0;
 }
+
